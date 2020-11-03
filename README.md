@@ -17,3 +17,5 @@
 Используя HOC обернуть Video и Article таким образом, чтобы при отображении в компоненте List они помещались внутрь требуемого компонента Popular или New.
 
 Воспользуйтесь готовым файлом App.js и стилями css/index.css из данного каталога в качестве отправной точки (замените ими те, что создаются в create-react-app).
+
+<i>Исходное задание: https://github.com/netology-code/ra16-homeworks/tree/master/hoc/highlight </i>
